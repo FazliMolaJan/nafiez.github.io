@@ -62,6 +62,7 @@ gdb-peda$ bt
 
 Trace Call 
 ----------
+```
                 |-- arg[0]: 0xb7fc0960 --> 0xfbad2086 
                 |-- arg[1]: 0x1 
                 |-- arg[2]: 0x8084488 ("%s%s\n")
@@ -94,3 +95,4 @@ warning: Unknown section attribute 'be' ignored on declaration of section `.data
                |-- arg[0]: 0x0 
                |-- arg[1]: 0x0 
                |-- arg[2]: 0xa ('\n')
+```
