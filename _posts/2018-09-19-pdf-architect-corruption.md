@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "PDF Architect 6 - "pdmodel.dll" Memory Corruption Vulnerability"
+title:  "Microsoft Windows Kernel - Win32k.sys Integer Overflow"
 date:   2018-09-19 03:39:03 +0700
-categories: [security, corruption]
+categories: [security, integer]
 ---
 
 Description
