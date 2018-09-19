@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: About Nafiez
 permalink: /about/
 ---
 
-Nafiez (@zeifan)
 
 Independent security researcher. Interested in x86 reverse engineering, low-level vulnerability research and fuzzing. Found numbers of vulnerability. 
