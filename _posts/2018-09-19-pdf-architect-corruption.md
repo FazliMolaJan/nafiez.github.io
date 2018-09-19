@@ -5,8 +5,6 @@ date:   2018-09-19 03:39:03 +0700
 categories: [security, corruption]
 ---
 
-Vulnerable module: pdmodel.dll
-
 Description
 -----------
 PDF Architect helps you to get the most out of your PDF files. The application is exceptionally light, easy-to-use and flexible. It is the advanced PDF solution with everything you need to customize, secure, and collaborate on your PDF documents. We've included all the necessary features for home and professional users alike who wish to streamline their workflow.
@@ -17,6 +15,8 @@ A memory corruption vulnerability exists in PDF Architect software. The vulnerab
 handling PDF files that contain specially crafted file. A remote attacker could trigger these flaws via a specially crafted PDF file. 
 Successful exploitation cause a memory corruption, causing the application to crash, and may allow execution of arbitrary code once a
 malicious PDF file is loaded on a vulnerable system.
+
+Vulnerable module, **pdmodel.dll**.
 
 Proof of concept can be construct as in following:
 ```
@@ -183,6 +183,8 @@ BUG_TITLE:Probably Exploitable - Data from Faulting Address controls Code Flow s
 EXPLANATION:The data from the faulting address is later used as the target for a branch.
 ```
 Disclosure timeline:
+```
 1. Reported on May 23, 2018
 2. Following up almost every week. Issue still exists.
 3. Publish to public, 90 days. 
+```
