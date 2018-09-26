@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adobe Flash ActiveX - NULL Pointer Dereference"
-date:   2018-09-16 03:39:03 +0700
+date:   2018-09-26 03:39:03 +0700
 categories: [security, pointer]
 ---
 
