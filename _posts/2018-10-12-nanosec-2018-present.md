@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NanoSec Conference 2018 (KUL) - Exploitation Era: Past, Present and Future"
-date:   2018-09-20 10:42:03 +0800
+date:   2018-10-20 15:42:03 +0800
 categories: [security, nanosec, conference]
 ---
 
