@@ -147,7 +147,7 @@ PROCESS_NAME:  winlogon.exe
 
 CURRENT_IRQL:  2
 
-ANALYSIS_SESSION_HOST:  W10HY7N462
+ANALYSIS_SESSION_HOST:  HEAVEN-PC
 
 ANALYSIS_SESSION_TIME:  10-24-2018 21:44:25.0111
 
@@ -280,7 +280,7 @@ Disassembly code of the crash path:
 ```
 kd> u win32k!NtUserGetDCEx+0xb7
 win32k!NtUserGetDCEx+0xb7:
-**fffff960`0016126f 488b4108        mov     rax,qword ptr [rcx+8]      // ds:002b:00000000`00000008=????????????????**
+fffff960`0016126f 488b4108        mov     rax,qword ptr [rcx+8]      // ds:002b:00000000`00000008=????????????????
 fffff960`00161273 488b7810        mov     rdi,qword ptr [rax+10h]
 fffff960`00161277 ff15936d1d00    call    qword ptr [win32k!_imp_PsGetCurrentThreadWin32Thread (fffff960`00338010)]
 fffff960`0016127d 0fbaa0980100001d bt      dword ptr [rax+198h],1Dh
