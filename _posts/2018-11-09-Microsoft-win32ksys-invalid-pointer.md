@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Microsoft Windows win32k.sys - Invalid Pointer Vulnerability"
+title:  "Microsoft Windows win32k.sys - Invalid Pointer Vulnerability (MSRC Case 48212)"
 date:   2018-11-09 10:05:03 +0800
 categories: [security, pointer]
 ---
