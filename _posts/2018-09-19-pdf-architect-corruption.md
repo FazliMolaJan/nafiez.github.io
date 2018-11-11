@@ -187,4 +187,5 @@ Disclosure timeline:
 1. Reported on May 23, 2018
 2. Following up almost every week. Issue still exists.
 3. Publish to public, 90 days. 
+4. Request for CVE (CVE-2018-19150) and assigned on Nov 11, 2018.
 ```
