@@ -189,3 +189,8 @@ Disclosure timeline:
 3. Publish to public, 90 days. 
 4. Request for CVE (CVE-2018-19150) and assigned on Nov 11, 2018.
 ```
+References:
+```
+1. https://nvd.nist.gov/vuln/detail/CVE-2018-19150
+2. https://cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2018-19150
+```
