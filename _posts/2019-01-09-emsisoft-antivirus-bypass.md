@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Emsisoft Anti Virus - ACLs Bypass"
+title:  "Emsisoft Anti-Malware - ACLs Bypass"
 date:   2019-01-09 05:39:03 +0800
 categories: [security, bypass]
 ---
 
 Overview
 --------
-A weak ACLs implementation in Emsisoft Anti Virus prone to vulnerable with ACLs bypass. Further investigation found the driver lack of security checks where the FILE_DEVICE_SECURE_OPEN flag is not set. The security issue has been reported to vendor (Emsisoft) and acknowledge. 
+A weak ACLs implementation in Emsisoft Anti-Malware prone to vulnerable with ACLs bypass. Further investigation found the driver lack of security checks where the FILE_DEVICE_SECURE_OPEN flag is not set. The security issue has been reported to vendor (Emsisoft) and acknowledge. 
 
 Vulnerability Analysis
 ----------------------
-Emsisoft Anti Virus prone to vulnerable with ACLs bypass. The vulnerability found to be part of the main driver EPP.sys. It is quite trivial to spot the issue by using DeviceTree tool. We extract the driver using the tool and spot the interpreted device characteristics empty, which is missing FILE_DEVICE_SECURE_OPEN. This means the driver didn't protect well that could allow to impersonate or create object to bypass the ACL. Screenshot below shows the driver prone to lack of ACL protection:
+Emsisoft Anti-Malware prone to vulnerable with ACLs bypass. The vulnerability found to be part of the main driver EPP.sys. It is quite trivial to spot the issue by using DeviceTree tool. We extract the driver using the tool and spot the interpreted device characteristics empty, which is missing FILE_DEVICE_SECURE_OPEN. This means the driver didn't protect well that could allow to impersonate or create object to bypass the ACL. Screenshot below shows the driver prone to lack of ACL protection:
 ![Screenshot broadcast](https://raw.githubusercontent.com/nafiez/nafiez.github.io/master/static/img/_posts/1.png "Screenshot broadcast")
 
 According to Microsoft (as part of Windows security model), it is required to perform a security checks in the driver and set FILE_DEVICE_SECURE_OPEN. If developer did not set FILE_DEVICE_SECURE_OPEN, the driver are responsible for ensuring the security of its namespace. I listed important notes from Microsoft when creating / implementing a driver:
