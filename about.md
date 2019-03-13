@@ -13,7 +13,7 @@ International Conference
 
 Local (Malaysia) Conference
 ---
-- NanoSec Conference 2018 - Kuala Lumpur
+- NanoSec Conference (Kuala Lumpur) 2018 (Talk 2: Exploitation Era – Past, Present and Future (Did it Really Die?)) - [https://www.nanosec.asia/nsc18-materials/](https://www.nanosec.asia/nsc18-materials/) 
 - Durian Security Conference 2017 - Kuala Lumpur
 - Durian Security Conference 2015 - Kuala Lumpur
 
