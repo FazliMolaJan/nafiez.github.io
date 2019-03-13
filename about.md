@@ -11,7 +11,7 @@ International Conference
 ---
 - HITB GSEC 2018 - Singapore
 
-Local Conference
+Local (Malaysia) Conference
 ---
 - NanoSec Conference 2018 - Kuala Lumpur
 - Durian Security Conference 2017 - Kuala Lumpur
@@ -20,3 +20,4 @@ Local Conference
 Acknowledgements
 ---
 - Independent Security Researchers (2018) - https://helpx.adobe.com/security/acknowledgements.html
+_Microsoft Internet Explorer Remote Memory Corruption - _ [_https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0763_](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0763)
