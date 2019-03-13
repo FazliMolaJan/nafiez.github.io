@@ -28,5 +28,5 @@ Example of the successful ACLs bypass:
 2019-01-14 - Vendor (Ralf Hilker from Security team) ack the issue and will roll out patch to customer.
 2019-01-17 - Ralf provide an update to roll out patch on 11th Feb 2019. However, there's a delay for the patch release. Ralf informed that there's no change log of the fix. So it won't be visible in their website.
 2019-02-15 - Follow up with Ralf. Asking for disclosure. Ralf requested to hold disclosure until 22nd Feb (wait until all customers gets an update). Agree with their decision. Fix version: https://secure.gd/dl-de-ts
-2019-03-15 - Follow up with Ralf again for disclosure. They agree with it. 
+2019-03-12 - Follow up with Ralf again for disclosure. They agree with it. 
 ```
