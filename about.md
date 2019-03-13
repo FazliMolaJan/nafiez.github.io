@@ -9,7 +9,7 @@ Independent security researcher. Interested in x86 reverse engineering, low-leve
 
 International Conference
 ---
-- HITB GSEC 2018 - Singapore
+- HITB GSEC Singapore 2018  - [https://gsec.hitb.org/sg2018/sessions/commsec-software-security-era-past-present-and-back-to-the-future/](https://gsec.hitb.org/sg2018/sessions/commsec-software-security-era-past-present-and-back-to-the-future/)
 
 Local (Malaysia) Conference
 ---
