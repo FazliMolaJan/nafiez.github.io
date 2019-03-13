@@ -19,5 +19,5 @@ Local (Malaysia) Conference
 
 Acknowledgements
 ---
-- Independent Security Researchers (2018) - https://helpx.adobe.com/security/acknowledgements.html
-_Microsoft Internet Explorer Remote Memory Corruption - _ [_https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0763_](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0763)
+- Independent Security Researchers (2018) - [_https://helpx.adobe.com/security/acknowledgements.html_](https://helpx.adobe.com/security/acknowledgements.html)
+- Microsoft Internet Explorer Remote Memory Corruption - [_https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0763_](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0763)
