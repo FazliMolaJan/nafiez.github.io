@@ -21,3 +21,15 @@ Acknowledgements
 ---
 - Independent Security Researchers (2018) - [_https://helpx.adobe.com/security/acknowledgements.html_](https://helpx.adobe.com/security/acknowledgements.html)
 - Microsoft Internet Explorer Remote Memory Corruption - [_https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0763_](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0763)
+- ACL bypass in Emsisoft Protection Platform driver - [_https://help.emsisoft.com/en/1760/vulnerability-report-en/_](https://help.emsisoft.com/en/1760/vulnerability-report-en/)
+
+CVEs
+---
+- CVE-2019-0763 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-0763_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-0763)
+- CVE-2019-9742 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9742_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9742)
+- CVE-2019-7651 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-7651_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-7651)
+- CVE-2018-1000097 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000097_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000097)
+- CVE-2017-100041 - (Not sure why the entry is no longer available)
+- CVE-2018-10717 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-10717_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-10717)
+- CVE-2018-19150 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19150_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19150)
+- CVE-2018-16382 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-16382_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-16382)
