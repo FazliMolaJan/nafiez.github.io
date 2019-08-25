@@ -25,6 +25,7 @@ Acknowledgements
 
 CVEs
 ---
+- CVE-2019-15512 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-15512_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-15512)
 - CVE-2019-0763 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-0763_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-0763)
 - CVE-2019-9742 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9742_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9742)
 - CVE-2019-7651 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-7651_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-7651)
