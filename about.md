@@ -30,7 +30,7 @@ CVEs
 - CVE-2019-9742 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9742_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9742)
 - CVE-2019-7651 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-7651_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-7651)
 - CVE-2018-1000097 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000097_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000097)
-- CVE-2017-100041 - (Not sure why the entry is no longer available)
+- CVE-2017-1000414 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-1000414_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-1000414)
 - CVE-2018-10717 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-10717_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-10717)
 - CVE-2018-19150 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19150_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19150)
 - CVE-2018-16382 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-16382_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-16382)
