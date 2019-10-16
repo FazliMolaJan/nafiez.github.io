@@ -22,6 +22,7 @@ Acknowledgements
 - Independent Security Researchers (2018) - [_https://helpx.adobe.com/security/acknowledgements.html_](https://helpx.adobe.com/security/acknowledgements.html)
 - Microsoft Internet Explorer Remote Memory Corruption - [_https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0763_](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0763)
 - ACL bypass in Emsisoft Protection Platform driver - [_https://help.emsisoft.com/en/1760/vulnerability-report-en/_](https://help.emsisoft.com/en/1760/vulnerability-report-en/)
+- Disclosures for 2019 - [_https://success.trendmicro.com/vulnerability-response_](https://success.trendmicro.com/vulnerability-response)
 
 CVEs
 ---
