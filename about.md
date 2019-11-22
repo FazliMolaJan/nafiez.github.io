@@ -9,6 +9,7 @@ Independent security researcher. Interested in x86 reverse engineering, low-leve
 
 International Conference
 ---
+- Power Of Community (POC) Conference 2019 - [http://powerofcommunity.net/2019.htm](http://powerofcommunity.net/2019.htm)
 - HITB GSEC Singapore 2018  - [https://gsec.hitb.org/sg2018/sessions/commsec-software-security-era-past-present-and-back-to-the-future/](https://gsec.hitb.org/sg2018/sessions/commsec-software-security-era-past-present-and-back-to-the-future/)
 
 Local (Malaysia) Conference
@@ -26,6 +27,7 @@ Acknowledgements
 
 CVEs
 ---
+- CVE-2019-19197 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-19197_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-19197)
 - CVE-2019-15512 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-15512_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-15512)
 - CVE-2019-0763 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-0763_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-0763)
 - CVE-2019-9742 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9742_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9742)
