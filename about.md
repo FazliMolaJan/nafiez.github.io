@@ -24,9 +24,11 @@ Acknowledgements
 - Microsoft Internet Explorer Remote Memory Corruption - [_https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0763_](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0763)
 - ACL bypass in Emsisoft Protection Platform driver - [_https://help.emsisoft.com/en/1760/vulnerability-report-en/_](https://help.emsisoft.com/en/1760/vulnerability-report-en/)
 - Disclosures for 2019 - [_https://success.trendmicro.com/vulnerability-response_](https://success.trendmicro.com/vulnerability-response)
+- Trend Micro Security 2020 (Consumer) Unsigned Code Execution Vulnerability - [_https://esupport.trendmicro.com/en-us/home/pages/technical-support/1124031.aspx_](https://esupport.trendmicro.com/en-us/home/pages/technical-support/1124031.aspx)
 
 CVEs
 ---
+- CVE-2019-18190 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-18190_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-18190)
 - CVE-2019-19197 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-19197_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-19197)
 - CVE-2019-15512 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-15512_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-15512)
 - CVE-2019-0763 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-0763_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-0763)
