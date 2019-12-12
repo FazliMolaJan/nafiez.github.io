@@ -28,6 +28,7 @@ Acknowledgements
 - McAfee TechCheck fixes arbitrary code execution vulnerability - [_https://service.mcafee.com/webcenter/portal/cp/home/articleview?articleId=TS102996_](https://service.mcafee.com/webcenter/portal/cp/home/articleview?articleId=TS102996)
 - Vulnerability of Local Privilege Escalation in the PSANHost process with Consumer products - [_https://www.pandasecurity.com/en/support/card?id=100069_](https://www.pandasecurity.com/en/support/card?id=100069)
 - Vulnerability of DLL Hijacking in the PSUAConsole process with Consumer products [_https://www.pandasecurity.com/en/support/card?id=100068_](https://www.pandasecurity.com/en/support/card?id=100068)
+- Vulnerability of Null Pointer Dereference with Consumer products - [_https://www.pandasecurity.com/en/support/card?id=100070_](https://www.pandasecurity.com/en/support/card?id=100070)
 
 CVEs
 ---
