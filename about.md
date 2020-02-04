@@ -29,7 +29,7 @@ Acknowledgements
 - Vulnerability of Local Privilege Escalation in the PSANHost process with Consumer products - [_https://www.pandasecurity.com/en/support/card?id=100069_](https://www.pandasecurity.com/en/support/card?id=100069)
 - Vulnerability of DLL Hijacking in the PSUAConsole process with Consumer products [_https://www.pandasecurity.com/en/support/card?id=100068_](https://www.pandasecurity.com/en/support/card?id=100068)
 - Vulnerability of Null Pointer Dereference with Consumer products - [_https://www.pandasecurity.com/en/support/card?id=100070_](https://www.pandasecurity.com/en/support/card?id=100070)
-- Vulnerability in Online Scanner - [_https://www.f-secure.com/en/business/programs/vulnerability-reward-program/hall-of-fame_]
+- Vulnerability in Online Scanner - [_https://www.f-secure.com/en/business/programs/vulnerability-reward-program/hall-of-fame_](https://www.f-secure.com/en/business/programs/vulnerability-reward-program/hall-of-fame)
 
 CVEs
 ---
