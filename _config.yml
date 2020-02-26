@@ -54,4 +54,4 @@ compress_html:
   comments: ["<!-- ", " -->"]
   endings: all
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
