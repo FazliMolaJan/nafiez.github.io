@@ -31,6 +31,7 @@ Acknowledgements
 - Vulnerability of Null Pointer Dereference with Consumer products - [_https://www.pandasecurity.com/en/support/card?id=100070_](https://www.pandasecurity.com/en/support/card?id=100070)
 - Vulnerability in Online Scanner - [_https://www.f-secure.com/en/business/programs/vulnerability-reward-program/hall-of-fame_](https://www.f-secure.com/en/business/programs/vulnerability-reward-program/hall-of-fame)
 - Multiple Nitro PDF Remote Code Execution Vulnerability - [_https://www.gonitro.com/nps/security/updates#security-update-6_](https://www.gonitro.com/nps/security/updates#security-update-6)
+- Multiple Nitro Pro 13 Heap Corruption Vulnerability - [_https://www.gonitrodev.com/nps/security/updates#security-update-8_](https://www.gonitrodev.com/nps/security/updates#security-update-8)
 
 CVEs
 ---
