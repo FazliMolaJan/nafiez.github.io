@@ -32,9 +32,11 @@ Acknowledgements
 - Vulnerability in Online Scanner - [_https://www.f-secure.com/en/business/programs/vulnerability-reward-program/hall-of-fame_](https://www.f-secure.com/en/business/programs/vulnerability-reward-program/hall-of-fame)
 - Multiple Nitro PDF Remote Code Execution Vulnerability - [_https://www.gonitro.com/nps/security/updates#security-update-6_](https://www.gonitro.com/nps/security/updates#security-update-6)
 - Multiple Nitro Pro 13 Heap Corruption Vulnerability - [_https://www.gonitrodev.com/nps/security/updates#security-update-8_](https://www.gonitrodev.com/nps/security/updates#security-update-8)
+- Microsoft Word Remote Code Execution Vulnerability - [_https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0980_](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0980)
 
 CVEs
 ---
+- CVE-2020-0980 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-0980_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-0980)
 - CVE-2020-10223 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10223_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10223)
 - CVE-2020-10222 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10222_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10222)
 - CVE-2019-19820 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-19820_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-19820)
