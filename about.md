@@ -7,6 +7,8 @@ permalink: /about/
 
 Independent security researcher from Malaysia. Interested in x86 reverse engineering, low-level vulnerability research and fuzzing. Have presented in International and local security conference. Part of HITB Core and CTF Crew. 
 
+Slides that I presented uploaded at SpeakerDeck, [https://speakerdeck.com/nafiez](https://speakerdeck.com/nafiez)
+
 International Conference
 ---
 - Power Of Community (POC) Conference 2019 - [http://powerofcommunity.net/2019.htm](http://powerofcommunity.net/2019.htm)
