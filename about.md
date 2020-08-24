@@ -35,6 +35,7 @@ Acknowledgements
 - Multiple Nitro PDF Remote Code Execution Vulnerability - [_https://www.gonitro.com/nps/security/updates#security-update-6_](https://www.gonitro.com/nps/security/updates#security-update-6)
 - Multiple Nitro Pro 13 Heap Corruption Vulnerability - [_https://www.gonitrodev.com/nps/security/updates#security-update-8_](https://www.gonitrodev.com/nps/security/updates#security-update-8)
 - Microsoft Word Remote Code Execution Vulnerability - [_https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0980_](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0980)
+- AVAST SecureLine VPN Elevation of Privilege Vulnerability - [_https://forum.avast.com/index.php?topic=213044_](https://forum.avast.com/index.php?topic=213044)
 
 CVEs
 ---
