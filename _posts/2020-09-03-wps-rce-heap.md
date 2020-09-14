@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kingsoft WPS Office Remote Heap Corruption Vulnerability"
+title:  "CVE-2020-25291 - Kingsoft WPS Office Remote Heap Corruption Vulnerability"
 date:   2020-09-03 21:45:00 +0800
 categories: [security, rce, heap]
 ---
@@ -376,3 +376,4 @@ The vulnerability was reported in August 2020. Timeline of disclosure:
 - 2020-08-28 - Asking for advisory or change log of the updates from WPS team.
 - 2020-08-31 - WPS team informed that they no longer update or maintain any security advisory. 
 - 2020-09-03 - Writeup of the vulnerability. Request CVE.
+- 2020-09-14 - CVE assigned, CVE-2020-25291.
