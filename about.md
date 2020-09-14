@@ -39,6 +39,8 @@ Acknowledgements
 
 CVEs
 ---
+- CVE-2020-25291 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25291_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25291)
+- CVE-2020-25289 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25289_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25289)
 - CVE-2020-0980 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-0980_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-0980)
 - CVE-2020-10223 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10223_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10223)
 - CVE-2020-10222 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10222_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10222)
