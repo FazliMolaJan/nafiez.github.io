@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AVAST SecureLine VPN - Arbitrary File Creation Vulnerability"
+title:  "CVE-2020-25289 - AVAST SecureLine VPN - Arbitrary File Creation Vulnerability"
 date:   2020-07-21 11:43:00 +0800
 categories: [security, arbitrary file, eop]
 ---
@@ -83,3 +83,4 @@ The bug was found few days before I fly to South Korea for POC conference and on
 - 2020-06-26 - Follow up again with vendor. Vendor informed me that the fixed version will be release on Monday (which is June 29, 2020). 
 - 2020-07-14 - Verify the fixed has been shipped on version 5.6.4982.470. Follow up with vendor for CVE and blog post. Vendor said no CVE assign, however can request myself. For blog post, vendor good with it since the fixed has been shipped. The fixed version can be found [here](https://bits.avcdn.net/productfamily_VPN/insttype_PRO/platform_WIN/installertype_ONLINE/build_RELEASE/cookie_mmm_scl_003_999_a4g_m)
 - 2020-07-22 - CVE requested. Pending for CVE.
+- 2020-09-14 - CVE assigned, CVE-2020-25289. 
