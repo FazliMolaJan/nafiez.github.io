@@ -374,6 +374,6 @@ The vulnerability was reported in August 2020. Timeline of disclosure:
 - 2020-08-28 - WPS sent an email saying that the issue has been fixed in the latest download version, 11.2.0.9403. 
 - 2020-08-28 - Tested the new version against the provided PoC and confirm the issue has been fixed.
 - 2020-08-28 - Asking for advisory or change log of the updates from WPS team.
-- 2020-08-31 - WPS team informed that they no longer update or maintain any security advisory. 
 - 2020-09-03 - Writeup of the vulnerability. Request CVE.
 - 2020-09-14 - CVE assigned, CVE-2020-25291.
+- 2020-09-15 - WPS Security team approached saying that the advisory of their program is exists and has written the advisory here, https://security.wps.cn/notices/6
