@@ -38,9 +38,11 @@ Acknowledgements
 - AVAST SecureLine VPN Elevation of Privilege Vulnerability - [_https://forum.avast.com/index.php?topic=213044_](https://forum.avast.com/index.php?topic=213044)
 - Nitro Pro PDF JBIG2 Image Decoders Out-of-Bounds Write Vulnerability - [_https://www.gonitro.com/nps/security/updates#security-update-12_](https://www.gonitro.com/nps/security/updates#security-update-12)
 - Multiple Vulnerability on Foxit Software (Reader and PhantomPDF 10.0.1.35811) for Windows. Release September 28, 2020. - [_https://www.foxitsoftware.com/support/security-bulletins.html_](https://www.foxitsoftware.com/support/security-bulletins.html)
+- Microsoft Office Access Connectivity Engine Remote Code Execution Vulnerability - [_https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-16957_]
 
 CVEs
----
+----
+- CVE-2020-16957 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-16957_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-16957)
 - CVE-2020-25290 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25290_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25290)
 - CVE-2020-25291 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25291_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25291)
 - CVE-2020-25289 - [_https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25289_](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25289)
