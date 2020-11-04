@@ -23,6 +23,8 @@ Local (Malaysia) Conference
 Acknowledgements
 ---
 - Independent Security Researchers (2018) - [_https://helpx.adobe.com/security/acknowledgements.html_](https://helpx.adobe.com/security/acknowledgements.html)
+- USN-3605-1: Sharutils vulnerability (CVE-2018-1000097) - [_https://people.canonical.com/~ubuntu-security/cve/2018/CVE-2018-1000097.html_](https://people.canonical.com/~ubuntu-security/cve/2018/CVE-2018-1000097.html)
+- USN-3605-1: Sharutils vulnerability - [_https://ubuntu.com/security/notices/USN-3605-1_](https://ubuntu.com/security/notices/USN-3605-1)
 - Microsoft Internet Explorer Remote Memory Corruption - [_https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0763_](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0763)
 - ACL bypass in Emsisoft Protection Platform driver - [_https://help.emsisoft.com/en/1760/vulnerability-report-en/_](https://help.emsisoft.com/en/1760/vulnerability-report-en/)
 - Disclosures for 2019 - [_https://success.trendmicro.com/vulnerability-response_](https://success.trendmicro.com/vulnerability-response)
@@ -38,7 +40,7 @@ Acknowledgements
 - AVAST SecureLine VPN Elevation of Privilege Vulnerability - [_https://forum.avast.com/index.php?topic=213044_](https://forum.avast.com/index.php?topic=213044)
 - Nitro Pro PDF JBIG2 Image Decoders Out-of-Bounds Write Vulnerability - [_https://www.gonitro.com/nps/security/updates#security-update-12_](https://www.gonitro.com/nps/security/updates#security-update-12)
 - Multiple Vulnerability on Foxit Software (Reader and PhantomPDF 10.0.1.35811) for Windows. Release September 28, 2020. - [_https://www.foxitsoftware.com/support/security-bulletins.html_](https://www.foxitsoftware.com/support/security-bulletins.html)
-- Microsoft Office Access Connectivity Engine Remote Code Execution Vulnerability - [_https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-16957_]
+- Microsoft Office Access Connectivity Engine Remote Code Execution Vulnerability - [_https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-16957_](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-16957)
 
 CVEs
 ----
