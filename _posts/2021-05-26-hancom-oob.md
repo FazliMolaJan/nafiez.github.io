@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hancom Word Out-of-Bounds Read Vulnerability"
+title:  "(0-Day?) Hancom Word Out-of-Bounds Read Vulnerability"
 date:   2021-05-26 18:00:00 +0800
 categories: [security, oob]
 ---
